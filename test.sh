@@ -1,3 +1,3 @@
 echo "Testing the Jenkins hook "
-adding new echo command 
+echo "adding new echo command" 
 date
